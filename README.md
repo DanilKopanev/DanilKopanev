@@ -43,3 +43,4 @@
 - Telegram: [@DaniKopa](https://t.me/DaniKopa)
 - [VK](https://vk.com/dani06kopa)
 - Email: [danechka.kopanev@yandex.ru](mailto:danechka.kopanev@yandex.ru)
+- Телефон: 89519520525
