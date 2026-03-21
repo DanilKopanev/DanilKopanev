@@ -12,9 +12,9 @@
 
 В рамках обучения и pet‑проектов решаю задачи с использованием разных инструментов.
 
-- [SQL]([https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum](https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum/analyst_donor))
-- [Python]([https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum](https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum/startup_analysis)) 
-- [Yandex DataLens]([https://datalens.yandex/j1qxzndk3mtw4?_theme=dark](https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum/startup_analysis))
+- [SQL](https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum/analyst_donor))
+- [Python](https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum/startup_analysis)) 
+- [Yandex DataLens](https://github.com/DanilKopanev/data-analyst-portfolio/tree/main/yandex-praktikum/startup_analysis))
 
 **👔 Опыт работы**
 
