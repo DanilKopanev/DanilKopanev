@@ -41,6 +41,5 @@
 **💬 Контакты**
 
 - Telegram: [@DaniKopa](https://t.me/DaniKopa)
-- VK: [dani06kopa](https://vk.com/dani06kopa)
+- [VK](https://vk.com/dani06kopa)
 - Email: [danechka.kopanev@yandex.ru](mailto:danechka.kopanev@yandex.ru)
-- Портфолио: [GitHub – data‑analyst‑portfolio](https://github.com/DanilKopanev/data-analyst-portfolio)
