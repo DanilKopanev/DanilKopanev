@@ -44,3 +44,4 @@
 - [VK](https://vk.com/dani06kopa)
 - Email: [danechka.kopanev@yandex.ru](mailto:danechka.kopanev@yandex.ru)
 - Телефон: 89519520525
+- [LinkedIn](https://ru.linkedin.com/in/danil-kopanev-25b2613b4)
